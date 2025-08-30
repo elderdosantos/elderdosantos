@@ -35,11 +35,6 @@ EC2, S3, RDS, Lambda, CloudFront, entre outros
 ![Elder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elderdosantos&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elderdosantos&layout=compact&theme=dracula)
 
-## 📝 Principais Projetos
-
-- [Projeto Yii2 Exemplo](https://github.com/elderdosantos/nomedoprojeto): Descrição breve do projeto.
-- [Outro Projeto PHP](https://github.com/elderdosantos/nomedoprojeto2): Descrição breve do projeto.
-
 ## 📫 Contato
 
 - [Instagram](https://www.instagram.com/elderdosantos/)
